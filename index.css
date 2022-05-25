@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(99, 98, 98);
+}
+
+#btn {
+    padding: 8px;
+    border-radius: 16px;
+    margin-left: 40%;
+    margin-top: 10%;
+    cursor: pointer;
+    border: 1px solid;
+}
+
+#btn:hover {
+    background-color: rgb(22, 209, 238);
+    transition: 0.5s;
+}
+
+.copyBtn {
+    color: aliceblue;
+}
+
+.copyBtn:hover {
+    color: rgb(153, 192, 225);
+    transition: 0.5s;
+}
+
+#color {
+    border: 1px solid rgb(26, 23, 26);
+
+    width: 32px;
+    height: 32px;
+}
